@@ -1,0 +1,39 @@
+C:\Users\Aluno\source\repos\pliniosalgado\pliniosalgado\bin\Debug\netcoreapp3.1\pliniosalgado.exe
+C:\Users\Aluno\source\repos\pliniosalgado\pliniosalgado\bin\Debug\netcoreapp3.1\pliniosalgado.deps.json
+C:\Users\Aluno\source\repos\pliniosalgado\pliniosalgado\bin\Debug\netcoreapp3.1\pliniosalgado.runtimeconfig.json
+C:\Users\Aluno\source\repos\pliniosalgado\pliniosalgado\bin\Debug\netcoreapp3.1\pliniosalgado.runtimeconfig.dev.json
+C:\Users\Aluno\source\repos\pliniosalgado\pliniosalgado\bin\Debug\netcoreapp3.1\pliniosalgado.dll
+C:\Users\Aluno\source\repos\pliniosalgado\pliniosalgado\bin\Debug\netcoreapp3.1\pliniosalgado.pdb
+C:\Users\Aluno\source\repos\pliniosalgado\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\pliniosalgado\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.Form1.resources
+C:\Users\Aluno\source\repos\pliniosalgado\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.Properties.Resources.resources
+C:\Users\Aluno\source\repos\pliniosalgado\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\pliniosalgado\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\pliniosalgado\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\pliniosalgado\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\pliniosalgado\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\pliniosalgado\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.dll
+C:\Users\Aluno\source\repos\pliniosalgado\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.pdb
+C:\Users\Aluno\source\repos\pliniosalgado\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\pliniosalgado\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.cadastro.resources
+C:\Users\Aluno\source\repos\pliniosalgado\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.toolstrip.resources
+C:\Users\manue\OneDrive\Área de Trabalho\ds_rpg-main\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Área de Trabalho\ds_rpg-main\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.cadastro.resources
+C:\Users\manue\OneDrive\Área de Trabalho\ds_rpg-main\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.Form1.resources
+C:\Users\manue\OneDrive\Área de Trabalho\ds_rpg-main\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.Properties.Resources.resources
+C:\Users\manue\OneDrive\Área de Trabalho\ds_rpg-main\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.toolstrip.resources
+C:\Users\manue\OneDrive\Área de Trabalho\ds_rpg-main\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.csproj.GenerateResource.cache
+C:\Users\manue\OneDrive\Área de Trabalho\ds_rpg-main\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Área de Trabalho\ds_rpg-main\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Área de Trabalho\ds_rpg-main\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Área de Trabalho\ds_rpg-main\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Área de Trabalho\ds_rpg-main\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.dll
+C:\Users\manue\OneDrive\Área de Trabalho\ds_rpg-main\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.pdb
+C:\Users\manue\OneDrive\Área de Trabalho\ds_rpg-main\pliniosalgado\bin\Debug\netcoreapp3.1\pliniosalgado.exe
+C:\Users\manue\OneDrive\Área de Trabalho\ds_rpg-main\pliniosalgado\bin\Debug\netcoreapp3.1\pliniosalgado.deps.json
+C:\Users\manue\OneDrive\Área de Trabalho\ds_rpg-main\pliniosalgado\bin\Debug\netcoreapp3.1\pliniosalgado.runtimeconfig.json
+C:\Users\manue\OneDrive\Área de Trabalho\ds_rpg-main\pliniosalgado\bin\Debug\netcoreapp3.1\pliniosalgado.runtimeconfig.dev.json
+C:\Users\manue\OneDrive\Área de Trabalho\ds_rpg-main\pliniosalgado\bin\Debug\netcoreapp3.1\pliniosalgado.dll
+C:\Users\manue\OneDrive\Área de Trabalho\ds_rpg-main\pliniosalgado\bin\Debug\netcoreapp3.1\pliniosalgado.pdb
+C:\Users\manue\OneDrive\Área de Trabalho\ds_rpg-main\pliniosalgado\obj\Debug\netcoreapp3.1\pliniosalgado.genruntimeconfig.cache
+C:\Users\manue\OneDrive\Área de Trabalho\ds_rpg-main\pliniosalgado\obj\Debug\netcoreapp3.1\FormClienteDES.Form1.resources
